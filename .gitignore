@@ -110,4 +110,4 @@ media/
 **/migrations/**
 !**/migrations
 !**/migrations/__init__.py
-!**/__pychache__
+.srm_inventory_management/__pycache__
