@@ -113,3 +113,4 @@ media/
 srm_inventory_management/__pycache__
 inventory/static
 __pycache__/
+__init__
