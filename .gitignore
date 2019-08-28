@@ -98,7 +98,7 @@ ENV/
 /site
 
 # mypy
-.mypy_cache/
+.__pycache__/
 
 .DS_Store
 *.sqlite3
@@ -110,4 +110,6 @@ media/
 **/migrations/**
 !**/migrations
 !**/migrations/__init__.py
-.srm_inventory_management/__pycache__
+srm_inventory_management/__pycache__/
+inventory/static
+__pycache__/
